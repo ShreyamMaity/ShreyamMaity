@@ -7,6 +7,7 @@
 [![Twitter: ShreyamMaity](https://img.shields.io/twitter/follow/ShreyamMaity?style=social)](https://twitter.com/ShreyamMaity)
 [![Linkedin: shreyammaity](https://img.shields.io/badge/-shreyammaity-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreyammaity/)](https://www.linkedin.com/in/shreyammaity/)
 [![GitHub ReyDevYT](https://img.shields.io/github/followers/ReyDevYT?label=follow&style=social)](https://github.com/ReyDevYT)
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Python D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛

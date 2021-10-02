@@ -10,6 +10,7 @@
 
 
  [![Shreyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReyDevYT&show_icons=true&theme=radical)](https://github.com/ReyDevYT) \
+ [![Shreyam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ReyDevYT)](https://github.com/ReyDevYT) \
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReyDevYT&theme=radical&show_icons=true)](https://github.com/ReyDevYT)
  
  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>

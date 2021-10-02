@@ -25,7 +25,8 @@
 </a>'
 --->
 
-
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+![Metrics](https://metrics.lecoq.io/ReyDevYT?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 <!---
 ReyDevYT/ReyDevYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

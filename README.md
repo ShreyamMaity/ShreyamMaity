@@ -4,8 +4,8 @@
 </em></p>
 
 
-[![Twitter: ShreyamMaity](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ShreyamMaity)
-[![Linkedin: shreyammaity](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreyammaity/)](https://www.linkedin.com/in/shreyammaity/)
+[![Twitter: ShreyamMaity](https://img.shields.io/twitter/follow/ShreyamMaity?style=social)](https://twitter.com/ShreyamMaity)
+[![Linkedin: shreyammaity](https://img.shields.io/badge/-shreyammaity-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreyammaity/)](https://www.linkedin.com/in/shreyammaity/)
 [![GitHub ReyDevYT](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/ReyDevYT)
 
 

@@ -20,8 +20,10 @@
 ## 🔔 Quick Overview
 - 📊 **Github Overview:** 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ReyDevYT&show_icons=true&theme=gotham" alt="ReyDevYT" /> 
+ 
 - 📊 **this week i spent my time on:** 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shreyam&show_icons=true&theme=gotham" alt="Shreyam" /> 
+ 
 - 📊 **Languages I've used most:** 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyDevYT&show_icons=true&theme=gotham" alt="ReyDevYT" /> 
  

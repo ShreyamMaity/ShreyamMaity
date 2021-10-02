@@ -8,7 +8,8 @@
 [![Linkedin: shreyammaity](https://img.shields.io/badge/-shreyammaity-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreyammaity/)](https://www.linkedin.com/in/shreyammaity/)
 [![GitHub ReyDevYT](https://img.shields.io/github/followers/ReyDevYT?label=follow&style=social)](https://github.com/ReyDevYT)
 
-
+## Quick overview
+* GitHub stats:  
  [![Shreyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReyDevYT&show_icons=true&theme=radical)](https://github.com/ReyDevYT) \
  [![Shreyam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shreyam&show_icons=true&theme=radical)](https://github.com/ReyDevYT) \
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReyDevYT&theme=radical&show_icons=true)](https://github.com/ReyDevYT)

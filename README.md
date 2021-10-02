@@ -9,44 +9,50 @@
 [![GitHub ReyDevYT](https://img.shields.io/github/followers/ReyDevYT?label=follow&style=social)](https://github.com/ReyDevYT)
 ![](https://visitor-badge.glitch.me/badge?page_id=ReyDevYT.ReyDevYT)
 
+👇 Hit in your console or terminal to connect with me.
+
+```bash
+npx Shreyam
+```
+
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Python D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 🎮 Hobbiest Game D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Computer Science & Engineering 𝚊𝚝 Netaji Subhash Engineering College, Batch 𝚘𝚏 2021-24
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 [GitHub](https://github.com/ReyDevYT)
-- 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 [Likedin](https://www.linkedin.com/in/shreyammaity/)
+- 🎳 You can play my sample game here [Space Sumo](https://reydevyt.github.io/)
+- 🎭 𝚋𝚝𝚠 you can connect me with [Likedin](https://www.linkedin.com/in/shreyammaity/)
+
 
 
 ## 🔔 Quick Overview
-- 📊 **Github Overview:** 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ReyDevYT&show_icons=true&theme=gotham" alt="ReyDevYT" /> 
+- 📊 **🐱 My GitHub Data:** 
+<p align=""> <img src="https://github-readme-stats.vercel.app/api?username=ReyDevYT&show_icons=true&theme=gotham" alt="ReyDevYT" /> 
  
-- 📊 **this week i spent my time on:** 
+- 📊 **My Routine:** 
+<!---
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shreyam&show_icons=true&theme=gotham" alt="Shreyam" /> 
+--->
+ <!--START_SECTION:waka-->
+ 
+  ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-875711%20lines%20of%20code-blue)
+<!--END_SECTION:waka-->
+ 
  
 - 📊 **Languages I've used most:** 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyDevYT&show_icons=true&theme=gotham" alt="ReyDevYT" /> 
+<p align=""> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyDevYT&show_icons=true&theme=gotham" alt="ReyDevYT" /> 
  
- if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<p align="center"> if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/shreyam" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<p align="center"><a href="https://www.buymeacoffee.com/shreyam" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
  
  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<!--- TO USE it side by side
-<a href="https://github.com/ReyDevYT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ReyDevYT&show_icons=true&theme=radical)" />
-</a>
-<a href="https://github.com/ReyDevYT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyDevYT&theme=radical&show_icons=true" />
-</a>'
---->
+
 <!---
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-![Metrics](https://metrics.lecoq.io/ReyDevYT?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
---->
-<!---
-ReyDevYT/ReyDevYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Hey Visitor , Thanks for downloading my readme.md , 
+If you like my work , please give a shout out 🥺👉👈
+Edit the necessary fields and enjoy!
+Happy Customisation!!!
 --->

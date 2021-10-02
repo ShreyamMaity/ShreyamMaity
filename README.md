@@ -8,6 +8,14 @@
 [![Linkedin: shreyammaity](https://img.shields.io/badge/-shreyammaity-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreyammaity/)](https://www.linkedin.com/in/shreyammaity/)
 [![GitHub ReyDevYT](https://img.shields.io/github/followers/ReyDevYT?label=follow&style=social)](https://github.com/ReyDevYT)
 
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 🖥 Python D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+- 🎮 Hobbiest Game D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Computer Science & Engineering 𝚊𝚝 Netaji Subhash Engineering College, Batch 𝚘𝚏 2021-24
+- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 [GitHub](https://github.com/ReyDevYT)
+- 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 [Likedin](https://www.linkedin.com/in/shreyammaity/)
+
+
 ## 🔔 Quick Overview
 * GitHub stats:  
 [![Shreyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReyDevYT&show_icons=true&theme=radical)](https://github.com/ReyDevYT) \

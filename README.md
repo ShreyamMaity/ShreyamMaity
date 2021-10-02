@@ -19,11 +19,11 @@
 
 ## 🔔 Quick Overview
 📊 **Github Overview:** 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ReyDevYT&show_icons=true&theme=gotham" alt="ReyDevYT" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ReyDevYT&show_icons=true&theme=gotham" alt="ReyDevYT" /> \
 📊 **this week i spent my time on:**
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shreyam&show_icons=true&theme=gotham" alt="Shreyam" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReyDevYT&theme=radical&show_icons=true)](https://github.com/ReyDevYT)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shreyam&show_icons=true&theme=gotham" alt="Shreyam" /> \
+📊 **Languages I've used most:**
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyDevYT&show_icons=true&theme=gotham" alt="ReyDevYT" /> \
  
  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 

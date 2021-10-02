@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Cloud Computing
 - 💞️ I’m looking to collaborate on Cloud based Projects
 - 📫 Reach me at linkedin from my profile
+- [![Shreyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReyDevYT)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 ReyDevYT/ReyDevYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

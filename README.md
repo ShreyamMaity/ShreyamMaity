@@ -7,8 +7,8 @@
 
 [![Twitter: ShreyamMaity](https://img.shields.io/twitter/follow/ShreyamMaity?style=social)](https://twitter.com/ShreyamMaity)
 [![Linkedin: shreyammaity](https://img.shields.io/badge/-shreyammaity-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreyammaity/)](https://www.linkedin.com/in/shreyammaity/)
-[![GitHub ReyDevYT](https://img.shields.io/github/followers/ReyDevYT?label=follow&style=social)](https://github.com/ReyDevYT)
-![](https://visitor-badge.glitch.me/badge?page_id=ReyDevYT.ReyDevYT)
+[![GitHub ShreyamMaity](https://img.shields.io/github/followers/ShreyamMaity?label=follow&style=social)](https://github.com/ShreyamMaity)
+![](https://visitor-badge.glitch.me/badge?page_id=ShryeyamMaity.ShreyamMaity)
 
 👇 Hit in your console or terminal to connect with me.
 
@@ -20,7 +20,7 @@ npx shreyam
 - 🖥 Python D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🎮 Hobbiest Game D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 <img src="https://media.giphy.com/media/KvI1A7ma7Pk48eZ5as/giphy.gif" width="30">
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Computer Science & Engineering 𝚊𝚝 Netaji Subhash Engineering College, Batch 𝚘𝚏 2021-24 <img src="https://media.giphy.com/media/MB75OzWrpUMOWfBHg0/giphy.gif" width="30">
-- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 [GitHub](https://github.com/ReyDevYT) <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="30">
+- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 [GitHub](https://github.com/ShreyamMaity) <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="30">
 - 🎳 You can play my sample game here [Space Sumo](https://reydevyt.github.io/) <img src="https://media.giphy.com/media/ej15KjYzfDdxckdVS2/giphy.gif" width="30">
 - 🎭 𝚋𝚝𝚠 you can connect me with [Likedin](https://www.linkedin.com/in/shreyammaity/) <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="30">
 
@@ -28,7 +28,7 @@ npx shreyam
 
 ## <img src="https://media.giphy.com/media/LPfvhoIwJj0u239wI9/giphy.gif" width="50"> Quick Overview
 -**<img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="50"> My GitHub Data:** 
-<p align=""> <img src="https://github-readme-stats.vercel.app/api?username=ReyDevYT&show_icons=true&theme=gotham" alt="ReyDevYT" /> 
+<p align=""> <img src="https://github-readme-stats.vercel.app/api?username=ShreyamMaity&show_icons=true&theme=gotham" alt="ShreyamMaity" /> 
  
 - <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> **My Routine:** 
 <!---
@@ -79,7 +79,7 @@ No Activity Tracked This Week
  
  
 - **<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> Languages I've used most:** 
-<p align=""> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyDevYT&show_icons=true&theme=gotham" alt="ReyDevYT" /> 
+<p align=""> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyamMaity&show_icons=true&theme=gotham" alt="ShreyamMaity" /> 
  
 <p align="center"> if you like what i do, maybe consider buying me a coffee/tea <img src="https://media.giphy.com/media/lRSeZ2ddNwhZ5AgIvk/giphy.gif" width="25">
 

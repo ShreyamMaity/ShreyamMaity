@@ -1,7 +1,7 @@
 <h2> Hi, I'm Shreyam Maity! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Computer Engineering Student at <a href="http://www.unb.br">Netaji Subhash Engineering College</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<p><em>Computer Engineering Student at <a href="http://nsec.ac.in">Netaji Subhash Engineering College</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
 

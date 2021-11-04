@@ -89,12 +89,17 @@ Linux                    18 mins             ░░░░░░░░░░░�
 - **<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> Languages I've used most:** 
 <p align=""> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyamMaity&show_icons=true&theme=gotham" alt="ShreyamMaity" /> 
  
+ - **<img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width="25"> My Profile Trophies:**   
+ <p align=""> <img src="https://github-profile-trophy.vercel.app/?username=ShreyamMaity&theme=juicyfresh&row=2&column=3" alt=ShreyamMaity />
+ 
+ 
 <p align="center"> if you like what i do, maybe consider buying me a coffee/tea <img src="https://media.giphy.com/media/lRSeZ2ddNwhZ5AgIvk/giphy.gif" width="25">
 
 <p align="center"><a href="https://www.buymeacoffee.com/shreyam" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
  
  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 
 
 <!---

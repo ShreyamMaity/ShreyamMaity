@@ -26,7 +26,38 @@ npx shreyam
 - 🎳 You can play my sample game here [Space Sumo](https://shreyammaity.github.io/spacesumo.github.io/) <img src="https://media.giphy.com/media/ej15KjYzfDdxckdVS2/giphy.gif" width="30">
 - 🎭 𝚋𝚝𝚠 you can connect me with [Likedin](https://www.linkedin.com/in/shreyammaity/) <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="30">
 
+## <img src="https://media.giphy.com/media/8FrCaIwWJaaBgX9IoQ/giphy.gif" width="50"> Expertise
 
+<p align="left">  
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://en.cppreference.com/w/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://dart.dev/" title="Dart"><img src="https://github.com/get-icon/geticon/raw/master/icons/dart.svg" alt="Dart" width="40" height="40"></a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://reactnative.dev/" title="React Native"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React Native" width="40" height="40"></a>
+<a href="https://flutter.dev" title="Flutter"><img src="https://github.com/get-icon/geticon/raw/master/icons/flutter.svg" alt="Flutter" width="40" height="40"></a> 
+ 
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="firebase" width="40" height="40"/> </a> 
+ <a href="https://aws.amazon.com/dynamodb/" title="AWS DynamoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws-dynamodb.svg" alt="AWS DynamoDB" width="40" height="40"></a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://flask.pocoo.org/" title="Flask"><img src="https://github.com/get-icon/geticon/raw/master/icons/flask.svg" alt="Flask" width="40" height="40"></a>
+<a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="40" height="40"></a>
+<a href="https://jenkins-ci.org/" title="Jenkins"><img src="https://github.com/get-icon/geticon/raw/master/icons/jenkins.svg" alt="Jenkins" width="40" height="40"></a>
+<a href="https://www.cloudflare.com/" title="Cloudflare"><img src="https://github.com/get-icon/geticon/raw/master/icons/cloudflare.svg" alt="Cloudflare" width="40" height="40"></a>
+<a href="https://wordpress.org/" title="WordPress"><img src="https://github.com/get-icon/geticon/raw/master/icons/wordpress-icon.svg" alt="WordPress" width="40" height="40"></a>
+<a href="https://www.apache.org/" title="Apache"><img src="https://github.com/get-icon/geticon/raw/master/icons/apache.svg" alt="Apache" width="40" height="40"></a>
+ <a href="https://aws.amazon.com/" title="AWS"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="40" height="40"></a>
+<a href="https://azure.microsoft.com/" title="Microsoft Azure"><img src="https://github.com/get-icon/geticon/raw/master/icons/azure-icon.svg" alt="Microsoft Azure" width="40" height="40"></a>
+ <a href="https://cloud.google.com/" title="Google Cloud"><img src="https://github.com/get-icon/geticon/raw/master/icons/google-cloud.svg" alt="Google Cloud" width="40" height="40"></a>
+<a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="40" height="40"></a>
+<a href="https://www.adobe.com/products/premiere.html" title="Adobe Premiere Pro"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-premiere_pro.svg" alt="Adobe Premiere Pro" width="40" height="40"></a>
+<a href="https://www.adobe.com/products/aftereffects.html" title="Adobe After Effects"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-after_effects.svg" alt="Adobe After Effects" width="40" height="40"></a>
+<a href="https://www.blender.org/" title="Blender"><img src="https://github.com/get-icon/geticon/raw/master/icons/blender.svg" alt="Blender" width="40" height="40"></a>
+<a href="https://unity3d.com/" title="Unity"><img src="https://github.com/get-icon/geticon/raw/master/icons/unity.svg" alt="Unity" width="40" height="40"></a>
 
 ## <img src="https://media.giphy.com/media/LPfvhoIwJj0u239wI9/giphy.gif" width="50"> Quick Overview
 -**<img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="50"> My GitHub Data:** 

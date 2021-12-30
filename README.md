@@ -39,7 +39,6 @@ npx shreyam
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://reactnative.dev/" title="React Native"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React Native" width="40" height="40"></a>
 <a href="https://flutter.dev" title="Flutter"><img src="https://github.com/get-icon/geticon/raw/master/icons/flutter.svg" alt="Flutter" width="40" height="40"></a> 
- 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="firebase" width="40" height="40"/> </a> 
  <a href="https://aws.amazon.com/dynamodb/" title="AWS DynamoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws-dynamodb.svg" alt="AWS DynamoDB" width="40" height="40"></a>

@@ -69,7 +69,7 @@ npx shreyam
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-462%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
@@ -110,7 +110,7 @@ Linux                    21 hrs 45 mins      ███████████�
 ```
 
 
- Last Updated on 22/04/2022 21:12:36 UTC
+ Last Updated on 22/04/2022 22:14:45 UTC
 <!--END_SECTION:waka-->
  
  

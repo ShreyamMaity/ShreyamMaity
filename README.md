@@ -69,7 +69,7 @@ npx shreyam
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
@@ -110,12 +110,15 @@ Linux                    16 hrs 27 mins      ███████████�
 ```
 
 
- Last Updated on 25/05/2022 16:13:02 UTC
+ Last Updated on 25/05/2022 14:16:09 UTC
 <!--END_SECTION:waka-->
  
  
-- **<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> Languages I've used most:** 
-<p align=""> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyamMaity&show_icons=true&theme=gotham" alt="ShreyamMaity" /> 
+<!-- - **<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> Languages I've used most:** 
+<p align=""> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyamMaity&show_icons=true&theme=gotham" alt="ShreyamMaity" />  -->
+ - **<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> Languages I've used most:** 
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShreyamMaity&theme=tokyonight" alt="ShreyamMaity" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShreyamMaity&theme=tokyonight" alt="ShreyamMaity" />
  
  - **<img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width="25"> My Profile Trophies:**   
  <p align=""> <img src="https://github-profile-trophy.vercel.app/?username=ShreyamMaity&theme=juicyfresh&row=2&column=3" alt=ShreyamMaity />

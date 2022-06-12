@@ -67,7 +67,7 @@ npx shreyam
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shreyam&show_icons=true&theme=gotham" alt="Shreyam" /> 
 --->
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-629%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-630%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -110,7 +110,7 @@ Linux                    46 hrs 26 mins      ███████████�
 ```
 
 
- Last Updated on 12/06/2022 16:11:44 UTC
+ Last Updated on 12/06/2022 17:12:33 UTC
 <!--END_SECTION:waka-->
  
  

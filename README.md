@@ -69,11 +69,11 @@ npx shreyam
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-623%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-orange)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
-**I'm a night 🦉** 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    34 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.16% 
@@ -82,7 +82,7 @@ npx shreyam
 🌙 Night      326 commits    ██████████░░░░░░░░░░░░░░░   39.85%
 
 ```
-📅 **I'm most productive on Sunday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday       168 commits    █████░░░░░░░░░░░░░░░░░░░░   20.54% 
@@ -96,7 +96,7 @@ Sunday       204 commits    ██████░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Kolkata
@@ -110,7 +110,7 @@ Linux                    46 hrs 26 mins      ███████████�
 ```
 
 
- Last Updated on 12/06/2022 08:13:25 UTC
+ Last Updated on 12/06/2022 09:12:59 UTC
 <!--END_SECTION:waka-->
  
  

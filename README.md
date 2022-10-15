@@ -24,7 +24,7 @@ npx shreyam
 <!-- - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Computer Science & Engineering 𝚊𝚝 Netaji Subhash Engineering College, Batch 𝚘𝚏 2021-24 <img src="https://media.giphy.com/media/MB75OzWrpUMOWfBHg0/giphy.gif" width="30"> -->
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 [GitHub](https://github.com/ShreyamMaity) <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="30">
 - 🎳 You can play my sample game here [Space Sumo](https://shreyammaity.github.io/spacesumo.github.io/) <img src="https://media.giphy.com/media/ej15KjYzfDdxckdVS2/giphy.gif" width="30">
-- 🎭 𝚋𝚝𝚠 you can connect me with [Likedin](https://www.linkedin.com/in/shreyammaity/) <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="30">
+- 🎭 𝚋𝚝𝚠 you can connect me with [LinkedIn](https://www.linkedin.com/in/shreyammaity/) <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="30">
 
 ## <img src="https://media.giphy.com/media/8FrCaIwWJaaBgX9IoQ/giphy.gif" width="50"> Expertise
 

@@ -61,7 +61,8 @@ npx shreyam
 ## <img src="https://media.giphy.com/media/LPfvhoIwJj0u239wI9/giphy.gif" width="50"> Quick Overview
 -**<img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="50"> My GitHub Data:** 
 <p align=""> <img src="https://github-readme-stats.vercel.app/api?username=ShreyamMaity&langs_count=10&show_icons=true&theme=gotham" alt="ShreyamMaity" /> 
- 
+<p align=""> <img src="https://streak-stats.demolab.com?user=ShreyamMaity&theme=gotham" alt="ShreyamMaity" /></p>
+
 - <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> **My Routine:** 
 <!---
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shreyam&show_icons=true&theme=gotham" alt="Shreyam" /> 

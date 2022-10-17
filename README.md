@@ -68,7 +68,7 @@ npx shreyam
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shreyam&show_icons=true&theme=gotham" alt="Shreyam" /> 
 --->
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C142%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C143%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
 
@@ -77,10 +77,10 @@ npx shreyam
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    93 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.04% 
+🌞 Morning    96 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.3% 
 🌆 Daytime    295 commits    ██████░░░░░░░░░░░░░░░░░░░   25.5% 
 🌃 Evening    383 commits    ████████░░░░░░░░░░░░░░░░░   33.1% 
-🌙 Night      386 commits    ████████░░░░░░░░░░░░░░░░░   33.36%
+🌙 Night      383 commits    ████████░░░░░░░░░░░░░░░░░   33.1%
 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -112,7 +112,7 @@ Linux                    34 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 17/10/2022 01:38:21 UTC
+ Last Updated on 17/10/2022 03:10:00 UTC
 <!--END_SECTION:waka-->
  
  

@@ -68,7 +68,7 @@ npx shreyam
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shreyam&show_icons=true&theme=gotham" alt="Shreyam" /> 
 --->
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C173%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C174%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue)
 
@@ -89,10 +89,10 @@ npx shreyam
 Monday       229 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.86% 
 Tuesday      132 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.87% 
 Wednesday    112 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.23% 
-Thursday     138 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.37% 
+Thursday     136 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.2% 
 Friday       137 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.29% 
 Saturday     252 commits    █████░░░░░░░░░░░░░░░░░░░░   20.76% 
-Sunday       214 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.63%
+Sunday       216 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.79%
 
 ```
 
@@ -111,7 +111,7 @@ Mac                      11 hrs 39 mins      ███████████�
 ```
 
 
- Last Updated on 29/10/2022 20:06:23 UTC
+ Last Updated on 29/10/2022 21:08:11 UTC
 <!--END_SECTION:waka-->
  
  

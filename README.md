@@ -11,7 +11,7 @@
 [![GitHub ShreyamMaity](https://img.shields.io/github/followers/ShreyamMaity?label=follow&style=social)](https://github.com/ShreyamMaity)
 ![](https://visitor-badge.glitch.me/badge?page_id=ShryeyamMaity.ShreyamMaity)
 
-👇 Hit in your console or terminal to connect with me.
+👇 Type in your console or terminal to connect with me.
 
 ```bash
 npx shreyam
@@ -20,11 +20,11 @@ npx shreyam
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Full Stack D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🎮 Hobbiest Game D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 <img src="https://media.giphy.com/media/KvI1A7ma7Pk48eZ5as/giphy.gif" width="30">
+- 🎮 Hobbist Game D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 <img src="https://media.giphy.com/media/KvI1A7ma7Pk48eZ5as/giphy.gif" width="30">
 <!-- - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Computer Science & Engineering 𝚊𝚝 Netaji Subhash Engineering College, Batch 𝚘𝚏 2021-24 <img src="https://media.giphy.com/media/MB75OzWrpUMOWfBHg0/giphy.gif" width="30"> -->
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 [GitHub](https://github.com/ShreyamMaity) <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="30">
 - 🎳 You can play my sample game here [Space Sumo](https://shreyammaity.github.io/spacesumo.github.io/) <img src="https://media.giphy.com/media/ej15KjYzfDdxckdVS2/giphy.gif" width="30">
-- 🎭 𝚋𝚝𝚠 you can connect me with [LinkedIn](https://www.linkedin.com/in/shreyammaity/) <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="30">
+- 🎭 𝚋𝚝𝚠 you can connect with me on [LinkedIn](https://www.linkedin.com/in/shreyammaity/) <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="30">
 
 ## <img src="https://media.giphy.com/media/8FrCaIwWJaaBgX9IoQ/giphy.gif" width="50"> Expertise
 

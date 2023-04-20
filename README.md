@@ -70,7 +70,7 @@ npx shreyam
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C812%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.0%20million%20lines%20of%20code-blue)
 
@@ -108,7 +108,7 @@ Mac                      45 hrs 26 mins      ███████████�
 ```
 
 
- Last Updated on 20/04/2023 11:04:25 UTC
+ Last Updated on 20/04/2023 12:04:44 UTC
 <!--END_SECTION:waka-->
  
  

@@ -68,9 +68,9 @@ npx shreyam
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shreyam&show_icons=true&theme=gotham" alt="Shreyam" /> 
 --->
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C815%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C821%20hrs%2016%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.0%20million%20lines%20of%20code-blue)
 
@@ -101,14 +101,14 @@ Sunday                   1317 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-VS Code                  33 hrs 4 mins       █████████████████████████   100.00 % 
+VS Code                  34 hrs 37 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      33 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      34 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/04/2023 19:03:59 UTC
+ Last Updated on 23/04/2023 20:03:54 UTC
 <!--END_SECTION:waka-->
  
  

@@ -68,9 +68,9 @@ npx shreyam
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shreyam&show_icons=true&theme=gotham" alt="Shreyam" /> 
 --->
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C069%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C069%20hrs%2030%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.2%20million%20lines%20of%20code-blue)
 
@@ -78,8 +78,8 @@ npx shreyam
 
 ```text
 🌞 Morning                1728 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-🌆 Daytime                3450 commits        ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
-🌃 Evening                5203 commits        █████████░░░░░░░░░░░░░░░░   37.14 % 
+🌆 Daytime                3452 commits        ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
+🌃 Evening                5203 commits        █████████░░░░░░░░░░░░░░░░   37.13 % 
 🌙 Night                  3629 commits        ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
@@ -89,7 +89,7 @@ Monday                   1404 commits        ███░░░░░░░░�
 Tuesday                  2687 commits        █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
 Wednesday                2881 commits        █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
 Thursday                 2005 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Friday                   1602 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Friday                   1604 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
 Saturday                 2082 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
 Sunday                   1349 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
 ```
@@ -108,7 +108,7 @@ Mac                      18 hrs 20 mins      ███████████�
 ```
 
 
- Last Updated on 21/07/2023 12:16:51 UTC
+ Last Updated on 21/07/2023 13:18:41 UTC
 <!--END_SECTION:waka-->
  
  

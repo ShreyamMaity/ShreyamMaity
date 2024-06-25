@@ -68,11 +68,11 @@ npx shreyam
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shreyam&show_icons=true&theme=gotham" alt="Shreyam" /> 
 --->
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C967%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C974%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.7%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -80,13 +80,13 @@ npx shreyam
 🌞 Morning                5492 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
 🌆 Daytime                34692 commits       ███████████░░░░░░░░░░░░░░   42.39 % 
 🌃 Evening                30367 commits       █████████░░░░░░░░░░░░░░░░   37.11 % 
-🌙 Night                  11285 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+🌙 Night                  11286 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   11830 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Tuesday                  19874 commits       ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+Tuesday                  19875 commits       ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
 Wednesday                17778 commits       █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
 Thursday                 11868 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
 Friday                   13501 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
@@ -101,14 +101,14 @@ Sunday                   1115 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  5 hrs 25 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Mac                      5 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/06/2024 19:32:49 UTC
+ Last Updated on 25/06/2024 20:29:10 UTC
 <!--END_SECTION:waka-->
  
  

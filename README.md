@@ -68,7 +68,7 @@ npx shreyam
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shreyam&show_icons=true&theme=gotham" alt="Shreyam" /> 
 --->
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C228%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C228%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
 
@@ -109,7 +109,7 @@ Mac                      23 hrs 17 mins      ███████████�
 ```
 
 
- Last Updated on 08/09/2024 20:28:02 UTC
+ Last Updated on 08/09/2024 21:28:54 UTC
 <!--END_SECTION:waka-->
  
  

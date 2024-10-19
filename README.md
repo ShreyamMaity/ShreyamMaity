@@ -70,7 +70,7 @@ npx shreyam
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C381%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-220-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-218-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-44.9%20million%20lines%20of%20code-blue)
 
@@ -101,14 +101,14 @@ Sunday                   1291 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-Cursor                   17 hrs 12 mins      █████████████████████████   100.00 % 
+Cursor                   17 hrs 7 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      17 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/10/2024 18:36:21 UTC
+ Last Updated on 19/10/2024 19:31:58 UTC
 <!--END_SECTION:waka-->
  
  

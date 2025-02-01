@@ -68,48 +68,14 @@ npx shreyam
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shreyam&show_icons=true&theme=gotham" alt="Shreyam" /> 
 --->
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C697%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C701%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-47.7%20million%20lines%20of%20code-blue)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                8944 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-🌆 Daytime                51021 commits       ██████████░░░░░░░░░░░░░░░   41.15 % 
-🌃 Evening                46835 commits       █████████░░░░░░░░░░░░░░░░   37.78 % 
-🌙 Night                  17177 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   17995 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Tuesday                  28827 commits       ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
-Wednesday                27343 commits       ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
-Thursday                 18379 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-Friday                   21215 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-Saturday                 8540 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-Sunday                   1678 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-🔥 Editors: 
-Cursor                   15 hrs 41 mins      █████████████████████████   99.39 % 
-VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-
-💻 Operating System: 
-Mac                      15 hrs 47 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 01/02/2025 18:36:26 UTC
+ Last Updated on 01/02/2025 19:34:59 UTC
 <!--END_SECTION:waka-->
  
  

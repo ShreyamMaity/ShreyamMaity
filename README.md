@@ -68,14 +68,47 @@ npx shreyam
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shreyam&show_icons=true&theme=gotham" alt="Shreyam" /> 
 --->
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C371%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C374%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-79.7%20million%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                20909 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+🌆 Daytime                114333 commits      ██████████░░░░░░░░░░░░░░░   41.01 % 
+🌃 Evening                100853 commits      █████████░░░░░░░░░░░░░░░░   36.18 % 
+🌙 Night                  42676 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   35059 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Tuesday                  62238 commits       ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
+Wednesday                65073 commits       ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
+Thursday                 48718 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Friday                   46745 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+Saturday                 18159 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Sunday                   2779 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+```
 
 
- Last Updated on 15/09/2025 19:00:52 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+🔥 Editors: 
+Cursor                   16 hrs 15 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      16 hrs 15 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 15/09/2025 21:03:46 UTC
 <!--END_SECTION:waka-->
  
  

@@ -68,47 +68,12 @@ npx shreyam
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shreyam&show_icons=true&theme=gotham" alt="Shreyam" /> 
 --->
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C508%20hrs%2013%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-85.31%20million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                26464 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-🌆 Daytime                125834 commits      ██████████░░░░░░░░░░░░░░░   39.48 % 
-🌃 Evening                114546 commits      █████████░░░░░░░░░░░░░░░░   35.94 % 
-🌙 Night                  51859 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   39782 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Tuesday                  68493 commits       █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
-Wednesday                77333 commits       ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
-Thursday                 56129 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Friday                   49807 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Saturday                 22852 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-Sunday                   4307 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-57.36%20million%20lines%20of%20code-blue)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 03/01/2026 06:59:13 UTC
+ Last Updated on 03/01/2026 08:33:53 UTC
 <!--END_SECTION:waka-->
  
  

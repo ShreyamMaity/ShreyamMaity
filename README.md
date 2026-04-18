@@ -68,12 +68,48 @@ npx shreyam
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shreyam&show_icons=true&theme=gotham" alt="Shreyam" /> 
 --->
  <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C643%20hrs%203%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-113.40%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-113.56%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                29756 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+🌆 Daytime                133765 commits      ██████████░░░░░░░░░░░░░░░   39.56 % 
+🌃 Evening                125440 commits      █████████░░░░░░░░░░░░░░░░   37.10 % 
+🌙 Night                  49174 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   60260 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+Tuesday                  79046 commits       ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
+Wednesday                75629 commits       ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
+Thursday                 59306 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Friday                   47906 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Saturday                 14092 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Sunday                   1896 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+```
 
 
- Last Updated on 18/04/2026 02:30:17 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+🔥 Editors: 
+Cursor                   2 hrs 30 mins       █████████████████████░░░░   82.93 % 
+Unknown Editor           30 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+
+💻 Operating System: 
+Mac                      3 hrs 1 min         █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 18/04/2026 03:56:16 UTC
 <!--END_SECTION:waka-->
  
  

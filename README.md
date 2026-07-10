@@ -72,26 +72,26 @@ npx shreyam
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-220.28%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-220.06%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                58568 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-🌆 Daytime                271799 commits      ██████████░░░░░░░░░░░░░░░   38.99 % 
-🌃 Evening                257201 commits      █████████░░░░░░░░░░░░░░░░   36.89 % 
-🌙 Night                  109605 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+🌞 Morning                58497 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+🌆 Daytime                271158 commits      ██████████░░░░░░░░░░░░░░░   38.97 % 
+🌃 Evening                256676 commits      █████████░░░░░░░░░░░░░░░░   36.89 % 
+🌙 Night                  109398 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   102665 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Tuesday                  151703 commits      █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
-Wednesday                155418 commits      ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
-Thursday                 131077 commits      █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
-Friday                   108122 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Saturday                 42070 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-Sunday                   6118 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Monday                   102595 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Tuesday                  151423 commits      █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
+Wednesday                155068 commits      ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
+Thursday                 130727 commits      █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+Friday                   107841 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Saturday                 41955 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Sunday                   6120 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 
 
@@ -109,7 +109,7 @@ Mac                      9 hrs 48 mins       ███████████�
 ```
 
 
- Last Updated on 10/07/2026 08:43:59 UTC
+ Last Updated on 10/07/2026 11:51:16 UTC
 <!--END_SECTION:waka-->
  
  

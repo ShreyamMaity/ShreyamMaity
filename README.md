@@ -72,26 +72,26 @@ npx shreyam
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-219.32%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-165.13%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                56565 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-🌆 Daytime                243760 commits      ██████████░░░░░░░░░░░░░░░   38.43 % 
-🌃 Evening                234188 commits      █████████░░░░░░░░░░░░░░░░   36.92 % 
-🌙 Night                  99717 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+🌞 Morning                37535 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+🌆 Daytime                154317 commits      ██████████░░░░░░░░░░░░░░░   38.16 % 
+🌃 Evening                152852 commits      █████████░░░░░░░░░░░░░░░░   37.79 % 
+🌙 Night                  59734 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   100826 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-Tuesday                  140172 commits      ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-Wednesday                140299 commits      ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
-Thursday                 116325 commits      █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-Friday                   93741 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Saturday                 36815 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-Sunday                   6052 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Monday                   75160 commits       █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+Tuesday                  95254 commits       ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+Wednesday                85482 commits       █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+Thursday                 72628 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+Friday                   56274 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Saturday                 17496 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+Sunday                   2144 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 ```
 
 
@@ -101,15 +101,15 @@ Sunday                   6052 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-Claude Code              6 hrs 31 mins       ██████████████░░░░░░░░░░░   56.47 % 
-Cursor                   5 hrs 1 min         ███████████░░░░░░░░░░░░░░   43.53 % 
+Claude Code              5 hrs 11 mins       ███████████████░░░░░░░░░░   58.41 % 
+Cursor                   3 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   41.59 % 
 
 💻 Operating System: 
-Mac                      11 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      8 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/07/2026 21:00:38 UTC
+ Last Updated on 21/07/2026 23:36:56 UTC
 <!--END_SECTION:waka-->
  
  

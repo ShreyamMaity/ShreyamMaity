@@ -68,32 +68,32 @@ npx shreyam
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shreyam&show_icons=true&theme=gotham" alt="Shreyam" /> 
 --->
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C844%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C846%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-300%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-301%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-237.55%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.01%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                61501 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-🌆 Daytime                278279 commits      ██████████░░░░░░░░░░░░░░░   38.83 % 
-🌃 Evening                263938 commits      █████████░░░░░░░░░░░░░░░░   36.82 % 
-🌙 Night                  113022 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+🌞 Morning                4896 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+🌆 Daytime                16215 commits       █████████░░░░░░░░░░░░░░░░   34.75 % 
+🌃 Evening                19385 commits       ██████████░░░░░░░░░░░░░░░   41.55 % 
+🌙 Night                  6162 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   107279 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Tuesday                  156798 commits      █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-Wednesday                160447 commits      ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
-Thursday                 133178 commits      █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-Friday                   108989 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-Saturday                 43971 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-Sunday                   6078 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Monday                   8850 commits        █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+Tuesday                  14717 commits       ████████░░░░░░░░░░░░░░░░░   31.54 % 
+Wednesday                8207 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+Thursday                 6518 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Friday                   5939 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Saturday                 2154 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Sunday                   273 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 ```
 
 
@@ -103,20 +103,38 @@ Sunday                   6078 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              1 hr 33 mins        █████████████████████████   99.81 % 
+Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 33 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 33 mins (99.81%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 25,526,344 Input Tokens, 153,806 Output Tokens
+
+💵 $193.13 Estimated AI Cost This Week
+
+🧠 10 AI Sessions, 22 AI Prompts
+
+Opus                     98 lines            █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 8,985 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/07/2026 20:32:22 UTC
+ Last Updated on 27/07/2026 22:19:04 UTC
 <!--END_SECTION:waka-->
  
  

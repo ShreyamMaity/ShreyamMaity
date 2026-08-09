@@ -74,26 +74,26 @@ npx shreyam
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-44.43%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49.50%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                10048 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-🌆 Daytime                53267 commits       ██████████░░░░░░░░░░░░░░░   41.21 % 
-🌃 Evening                52703 commits       ██████████░░░░░░░░░░░░░░░   40.77 % 
-🌙 Night                  13255 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+🌞 Morning                10222 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+🌆 Daytime                53756 commits       ██████████░░░░░░░░░░░░░░░   41.06 % 
+🌃 Evening                53369 commits       ██████████░░░░░░░░░░░░░░░   40.76 % 
+🌙 Night                  13580 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   23322 commits       █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-Tuesday                  37435 commits       ███████░░░░░░░░░░░░░░░░░░   28.96 % 
-Wednesday                23105 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-Thursday                 20621 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-Friday                   21240 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Saturday                 2684 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Sunday                   866 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Monday                   23588 commits       █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+Tuesday                  37660 commits       ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+Wednesday                23339 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Thursday                 20894 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Friday                   21528 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Saturday                 2882 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Sunday                   1036 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 ```
 
 
@@ -103,26 +103,26 @@ Sunday                   866 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-Claude Code              12 hrs 24 mins      ████████████████░░░░░░░░░   62.52 % 
-Cursor                   7 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   37.46 % 
+Claude Code              12 hrs 19 mins      ████████████████░░░░░░░░░   62.34 % 
+Cursor                   7 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   37.64 % 
 Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      19 hrs 51 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 1 min (95.78%)
+⏱ AI Coding Time: 18 hrs 55 mins (95.76%)
 
 ✍️ 2,362 lines written by AI, 98 lines written by hand (96.02% AI-written)
 
-🔤 321,345,651 Input Tokens, 984,427 Output Tokens
+🔤 313,445,811 Input Tokens, 976,139 Output Tokens
 
-💵 $3069.42 Estimated AI Cost This Week
+💵 $2990.75 Estimated AI Cost This Week
 
-🧠 273 AI Sessions, 776 AI Prompts
+🧠 269 AI Sessions, 767 AI Prompts
 
 Fable                    2,716 lines         ████████████████████████░   97.00 % 
 Opus                     84 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
@@ -131,13 +131,13 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 96.02% of written lines came from AI
-📚 Verbose Prompter — average 6,199 characters per prompt
+📚 Verbose Prompter — average 6,242 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 6.32% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/08/2026 19:45:21 UTC
+ Last Updated on 09/08/2026 21:40:30 UTC
 <!--END_SECTION:waka-->
  
  

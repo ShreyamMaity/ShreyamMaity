@@ -74,26 +74,26 @@ npx shreyam
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-188.13%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                42835 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-🌆 Daytime                174516 commits      █████████░░░░░░░░░░░░░░░░   37.97 % 
-🌃 Evening                173496 commits      █████████░░░░░░░░░░░░░░░░   37.75 % 
-🌙 Night                  68726 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   85486 commits       █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-Tuesday                  107187 commits      ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
-Wednesday                97960 commits       █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
-Thursday                 83042 commits       █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-Friday                   63330 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Saturday                 20253 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-Sunday                   2315 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
@@ -137,7 +137,7 @@ Opus                     0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 20/08/2026 17:08:48 UTC
+ Last Updated on 20/08/2026 17:17:25 UTC
 <!--END_SECTION:waka-->
  
  

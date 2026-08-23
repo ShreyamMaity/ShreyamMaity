@@ -74,26 +74,26 @@ npx shreyam
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-180.46%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                39723 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-🌆 Daytime                164218 commits      ██████████░░░░░░░░░░░░░░░   38.01 % 
-🌃 Evening                163435 commits      █████████░░░░░░░░░░░░░░░░   37.83 % 
-🌙 Night                  64670 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   81518 commits       █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-Tuesday                  101129 commits      ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
-Wednesday                89462 commits       █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-Thursday                 79326 commits       █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-Friday                   60365 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Saturday                 17878 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-Sunday                   2368 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
@@ -103,26 +103,26 @@ Sunday                   2368 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-Claude Code              8 hrs 32 mins       ████████████████░░░░░░░░░   65.33 % 
-Cursor                   3 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   26.08 % 
-Agent                    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+Claude Code              8 hrs 32 mins       █████████████████░░░░░░░░   69.94 % 
+Cursor                   3 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   27.92 % 
+Agent                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 
 💻 Operating System: 
-Mac                      13 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      12 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 35 mins (96.29%)
+⏱ AI Coding Time: 11 hrs 43 mins (96.02%)
 
 ✍️ 1,187 lines written by AI, 89 lines written by hand (93.03% AI-written)
 
-🔤 10,474,982 Input Tokens, 1,127,635 Output Tokens
+🔤 10,464,511 Input Tokens, 1,117,164 Output Tokens
 
-💵 $439.20 Estimated AI Cost This Week
+💵 $439.01 Estimated AI Cost This Week
 
-🧠 177 AI Sessions, 769 AI Prompts
+🧠 175 AI Sessions, 757 AI Prompts
 
 Fable                    1,212 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -130,13 +130,13 @@ Composer                 0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 93.03% of written lines came from AI
-📚 Verbose Prompter — average 15,767 characters per prompt
+📚 Verbose Prompter — average 15,962 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 7.55% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/08/2026 19:52:57 UTC
+ Last Updated on 23/08/2026 20:08:23 UTC
 <!--END_SECTION:waka-->
  
  

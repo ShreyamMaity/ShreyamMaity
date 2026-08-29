@@ -74,25 +74,25 @@ npx shreyam
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-277.48%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-277.52%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                66520 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-🌆 Daytime                299650 commits      ██████████░░░░░░░░░░░░░░░   38.49 % 
-🌃 Evening                289714 commits      █████████░░░░░░░░░░░░░░░░   37.22 % 
-🌙 Night                  122573 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+🌞 Morning                66535 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+🌆 Daytime                299744 commits      ██████████░░░░░░░░░░░░░░░   38.49 % 
+🌃 Evening                289795 commits      █████████░░░░░░░░░░░░░░░░   37.22 % 
+🌙 Night                  122605 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   119852 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-Tuesday                  169410 commits      █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
-Wednesday                173152 commits      ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
-Thursday                 145865 commits      █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-Friday                   118201 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Saturday                 45450 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Monday                   119872 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+Tuesday                  169454 commits      █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
+Wednesday                173203 commits      ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
+Thursday                 145915 commits      █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+Friday                   118242 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Saturday                 45466 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 Sunday                   6527 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 
@@ -102,43 +102,37 @@ Sunday                   6527 commits        ░░░░░░░░░░░�
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
-🔥 Editors: 
-Claude Code              17 hrs 29 mins      ██████████████████░░░░░░░   72.77 % 
-Cursor                   5 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
-Agent                    1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-
 💻 Operating System: 
-Mac                      24 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      24 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 27 mins (97.66%)
+⏱ AI Coding Time: 24 hrs 6 mins (97.38%)
 
-✍️ 4,007 lines written by AI, 83 lines written by hand (97.97% AI-written)
+✍️ 3,769 lines written by AI, 85 lines written by hand (97.79% AI-written)
 
-🔤 13,742,227 Input Tokens, 1,273,641 Output Tokens
+🔤 13,445,812 Input Tokens, 1,248,326 Output Tokens
 
-💵 $470.94 Estimated AI Cost This Week
+💵 $474.04 Estimated AI Cost This Week
 
-🧠 260 AI Sessions, 1099 AI Prompts
+🧠 261 AI Sessions, 1098 AI Prompts
 
-Fable                    3,035 lines         ███████████████████░░░░░░   75.67 % 
-Opus                     976 lines           ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
+Fable                    2,797 lines         ███████████████████░░░░░░   74.13 % 
+Opus                     976 lines           ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.97% of written lines came from AI
-📚 Verbose Prompter — average 5,958 characters per prompt
+🤖 AI-Driven — 97.79% of written lines came from AI
+📚 Verbose Prompter — average 5,562 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 6.09% of changed lines were hand-edited
+🚀 High AI Trust — 6.49% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/08/2026 23:17:59 UTC
+ Last Updated on 29/08/2026 07:17:44 UTC
 <!--END_SECTION:waka-->
  
  

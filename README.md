@@ -47,32 +47,32 @@ npx shreyam
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shreyam&show_icons=true&theme=gotham" alt="Shreyam" /> 
 --->
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C953%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C954%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-511%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-519%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-335.71%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-337.62%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                73151 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-🌆 Daytime                328480 commits      ██████████░░░░░░░░░░░░░░░   38.22 % 
-🌃 Evening                322059 commits      █████████░░░░░░░░░░░░░░░░   37.48 % 
-🌙 Night                  135653 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+🌞 Morning                73484 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+🌆 Daytime                329731 commits      ██████████░░░░░░░░░░░░░░░   38.21 % 
+🌃 Evening                323478 commits      █████████░░░░░░░░░░░░░░░░   37.49 % 
+🌙 Night                  136227 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   134965 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Tuesday                  187616 commits      █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
-Wednesday                191913 commits      ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
-Thursday                 160733 commits      █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
-Friday                   128797 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Saturday                 48566 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-Sunday                   6753 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Monday                   135665 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Tuesday                  188383 commits      █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+Wednesday                192667 commits      ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
+Thursday                 161436 commits      █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+Friday                   129277 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+Saturday                 48729 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Sunday                   6763 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 ```
 
 
@@ -82,11 +82,11 @@ Sunday                   6753 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💻 Operating System: 
-Mac                      7 hrs 43 mins       █████████████████████████   100.00 % 
+Mac                      15 hrs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/10/2026 21:22:23 UTC
+ Last Updated on 09/10/2026 02:13:26 UTC
 <!--END_SECTION:waka-->
  
  

@@ -5,7 +5,7 @@
 </em></p>
 
 
-[![Twitter: ShreyamMaity](https://img.shields.io/twitter/follow/ShreyamMaity?style=social)](https://twitter.com/ShreyamMaity) [![Linkedin: shreyammaity](https://img.shields.io/badge/-shreyammaity-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreyammaity/)](https://www.linkedin.com/in/shreyammaity/) [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://shreyam.dev/)](https://shreyam.dev/) [![Hugging Face: ReyDev](https://img.shields.io/badge/-ReyDev-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/ReyDev) [![GitHub ShreyamMaity](https://img.shields.io/github/followers/ShreyamMaity?label=follow&style=social)](https://github.com/ShreyamMaity) ![Profile views](https://komarev.com/ghpvc/?username=ShreyamMaity&color=blue&style=flat)
+[![Twitter: ShreyamMaity](assets/badges/twitter.svg)](https://twitter.com/ShreyamMaity) [![Linkedin: shreyammaity](assets/badges/linkedin.svg)](https://www.linkedin.com/in/shreyammaity/) [![website](assets/badges/website.svg)](https://shreyam.dev/) [![Hugging Face: ReyDev](assets/badges/huggingface.svg)](https://huggingface.co/ReyDev) [![GitHub ShreyamMaity](https://img.shields.io/github/followers/ShreyamMaity?label=follow&style=social)](https://github.com/ShreyamMaity)
 
 👇 Type in your console or terminal to connect with me.
 

@@ -47,46 +47,16 @@ npx shreyam
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shreyam&show_icons=true&theme=gotham" alt="Shreyam" /> 
 --->
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C961%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C963%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-557%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-561%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-363.68%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                76663 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-🌆 Daytime                343724 commits      ██████████░░░░░░░░░░░░░░░   38.08 % 
-🌃 Evening                339806 commits      █████████░░░░░░░░░░░░░░░░   37.65 % 
-🌙 Night                  142407 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   143150 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-Tuesday                  196841 commits      █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
-Wednesday                201779 commits      ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
-Thursday                 169145 commits      █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-Friday                   134648 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-Saturday                 50135 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-Sunday                   6902 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-364.07%20million%20lines%20of%20code-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💻 Operating System: 
-Mac                      19 hrs 30 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 27/10/2026 22:21:09 UTC
+ Last Updated on 28/10/2026 02:10:28 UTC
 <!--END_SECTION:waka-->
  
  
